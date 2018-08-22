@@ -1,0 +1,1 @@
+Program chat on COM port. Written using WinForms technology. To use in the "settings" column, specify the settings and the port name. If necessary, all messages can be saved in a txt file.
